@@ -1,3 +1,3 @@
 # Mushroom-Classification
 
-Machine learning models to classify mushrooms.
+Machine learning models to classify mushrooms!
